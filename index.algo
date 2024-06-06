@@ -1,0 +1,10 @@
+Weather Clothing Adviser
+var 
+Weather: string:= "rain"
+begin
+if Weather="rain"
+write (you should wear a coot);
+ELSE
+write("wear any clothes)
+END_IF
+END
